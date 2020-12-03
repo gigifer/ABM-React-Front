@@ -8,8 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@apollo/client": "^3.2.4",
+    "apollo-link-context": "^1.0.20",
+    "formik": "^2.2.0",
+    "graphql": "^15.3.0",
     "next": "9.5.5",
+    "node-fetch": "^2.6.1",
     "react": "16.14.0",
-    "react-dom": "16.14.0"
+    "react-dom": "16.14.0",
+    "react-select": "^3.1.0",
+    "recharts": "^1.8.5",
+    "sweetalert2": "^10.7.0",
+    "yup": "^0.29.3"
   }
 }
