@@ -4,7 +4,7 @@ import { setContext } from 'apollo-link-context';
 
 // Donde nos conectamos para obtener los datos
 const httpLink = createHttpLink({
-    uri: 'http://localhost:4000/',
+    uri: 'https://arcane-fortress-20573.herokuapp.com/',
     fetch
 });
 
